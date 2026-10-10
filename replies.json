@@ -1,6 +1,7 @@
 {
     "greetings": {
         "hi": "Hello, {name}! 😊 Welcome to Free Star. How can we help you?",
+        "hlw": "Hello, {name}! 😊 Welcome to Free Star. How can we help you?",
         "hello": "Hello, {name}! 😊 Welcome to Free Star. How can we help you?",
         "hey": "Hey, {name}! 👋 Thanks for messaging Free Star.",
         "আসসালামু আলাইকুম": "ওয়ালাইকুম আসসালাম, {name}! 😊 Free Star-এ স্বাগতম। কীভাবে সাহায্য করতে পারি?",
